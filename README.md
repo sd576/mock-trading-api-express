@@ -59,6 +59,7 @@ The server will start at http://localhost:3000.
 ```
 
 **Directory Structure**
+```
 mock-trading-api/
 ├── binance/ # Contains endpoint implementations
 ├── config/ # Configuration files
@@ -69,6 +70,7 @@ mock-trading-api/
 ├── req.js # Axios-based HTTP client
 ├── ws.js # WebSocket client
 └── renovate.json # Renovate configuration for dependency updates
+```
 
 **Running Tests**
 Tests are provided to validate the functionality of the mock API. To execute the tests:
