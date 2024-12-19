@@ -2,7 +2,7 @@
 
 This project provides a mock implementation of the Binance Trading API, enabling developers to test trading-related workflows without interacting with the live Binance API. The mock API is built with **Express.js** and utilizes **ES6 modules** for modern and modular development.
 
-\*\* Purpose
+## Purpose
 
 This mock trading API simulates workflows for various financial markets, including securities trading, foreign exchange (FX), and cryptocurrency trading. While originally inspired by Binance API features, it provides a versatile foundation for testing trade-related applications across different financial domains:
 Market Data: Retrieve prices, trends, and order book depths for securities, FX pairs, and crypto assets.
